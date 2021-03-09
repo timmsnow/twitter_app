@@ -1,0 +1,3 @@
+@tweets.map do |tweet|
+  render partial: "tweet.json.jb", locals: { tweet: tweet }
+end

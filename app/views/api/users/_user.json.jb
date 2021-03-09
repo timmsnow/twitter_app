@@ -1,0 +1,4 @@
+{
+  username: user.username,
+  tweets: user.tweets.pluck(:text),
+}

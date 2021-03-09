@@ -1,0 +1,5 @@
+{
+  user: tweet.user.username,
+  user_id: tweet.user_id,
+  text: tweet.text,
+}

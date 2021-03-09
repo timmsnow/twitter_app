@@ -1,0 +1,1 @@
+render partial: "tweet.json.jb", locals: { tweet: @tweet }
